@@ -2,7 +2,7 @@
 
 ### Certificates for [Forage](https://www.theforage.com/) work experience program
 
-#### 1. [ANZ Australia Data@ANZ Program](https://github.com/mengmwang/ANZ-Virtual-Intership)
+#### 1. [ANZ Australia Data@ANZ Program](https://github.com/mengmwang/ANZ-Virtual-Internship)
 
 - Exploratory Data Analysis
 - Predictive Analytics
@@ -54,7 +54,7 @@ Skills demonstrated: `Excel`, `Tableau`
 
 Skills demonstrated：`Excel`, `Microsoft Power BI`
 
-#### 7. [Quantium Data Analytics Virtual Experience Program](https://github.com/mengmwang/Quantium-Virtual-Intership)
+#### 7. [Quantium Data Analytics Virtual Experience Program](https://github.com/mengmwang/Quantium-Virtual-Internship)
 
 - Data preparation and customer analytics
 - Experimentation and uplift testing
